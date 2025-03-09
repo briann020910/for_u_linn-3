@@ -20,7 +20,7 @@ Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
 
 konten = [
   { 
-    gambar: "foto1.jpg",
+    gambar: "https://github.com/briann020910/for_u_linn-3/blob/main/image/foto1.jpg",
     ucapan: "HALOO CANTIKK NYA AKUU‼️🤍✨",
   },
   {
